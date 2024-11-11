@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: rgba(240, 248, 255, 0.737);
+}
+h1{
+    color: blue;
+}
+p{
+    color: rgb(43, 15, 15);
+}
+a{
+    text-decoration:none ;
+}
+button{
+    height: 30px;
+    width: 230px;
+    border: 3px solid black;
+    border-radius: 20%;
+}
